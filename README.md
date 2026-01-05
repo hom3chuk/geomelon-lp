@@ -16,7 +16,7 @@ It is designed for developers building location-aware applications, mapping tool
 - Search, filtering, sorting, and pagination
 - Settlement types and full translation listings
 
-![city name autocomplete example](https://github.com/hom3chuk/geomelon-lp/blob/main/geomelon-city-country-api-autocomplete.gif)
+![city name autocomplete example](https://raw.githubusercontent.com/hom3chuk/geomelon-lp/refs/heads/main/geomelon-city-country-api-autocomplete.gif)
 
 ### Example city
 ```
@@ -126,14 +126,6 @@ It is designed for developers building location-aware applications, mapping tool
 - Data enrichment for analytics and ML pipelines
 - Autocomplete and geocoding features
 - Internationalized apps needing reliable geo metadata
-
----
-
-## 📘 Documentation
-
-- Fully documented with Swagger / OpenAPI
-- Clear request and response schemas
-- Self-describing endpoints for rapid integration
 
 ---
 
