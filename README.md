@@ -16,6 +16,8 @@ It is designed for developers building location-aware applications, mapping tool
 - Search, filtering, sorting, and pagination
 - Settlement types and full translation listings
 
+![city name autocomplete example](https://github.com/hom3chuk/geomelon-lp/blob/main/geomelon-city-country-api-autocomplete.gif)
+
 ### Example city
 ```
   {
